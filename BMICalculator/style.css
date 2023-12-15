@@ -1,0 +1,47 @@
+.container {
+    width: 575px;
+    height: 825px;
+  
+    background-color: #4a4a4d;
+    padding-left: 30px;
+  }
+  #height,
+  #weight {
+   border-width: thick;
+    height: 25px;
+    margin-top: 30px;
+  }
+  
+  #weight-guide {
+    margin-left: 75px;
+    margin-top: 25px;
+  }
+  
+  #results {
+    font-size: 35px;
+    margin-left: 90px;
+    margin-top: 20px;
+    color: rgb(145, 34, 34);
+  }
+  
+  button {
+    width: 150px;
+    height: 35px;
+    margin-left: 90px;
+    margin-top: 25px;
+    background-color: #0a0a0a;
+    padding: 1px 30px;
+    border-radius: 8px;
+    color: #bdb1b1;
+   text-align: center;
+    border: 2px solid #212121;
+  
+    font-size: 25px;
+  }
+  
+  h1 {
+    padding-left: 15px;
+    padding-top: 25px;
+    
+  }
+  

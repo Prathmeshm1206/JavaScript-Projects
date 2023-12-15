@@ -6,7 +6,7 @@ buttons.forEach(function (button){
 
     // callback function for event generate
 
-   button.addEventListener('click', function(e){                ///mouse event
+   button.addEventListener('click', function(e){                ///mouse event (callback function)
        if(e.target.id === 'grey')
        {
         body.style.backgroundColor = e.target.id;
