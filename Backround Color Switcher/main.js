@@ -1,7 +1,7 @@
 const buttons = document.querySelectorAll('.button');
 const body = document.querySelector('body');
 
-buttons.forEach(function (button){
+buttons.forEach(function (button){           // for each loop for iteration  all the buttons
     
 
     // callback function for event generate
